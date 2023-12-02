@@ -1,0 +1,15 @@
+/workspaces/aoc-23/2/bin/Debug/net7.0/aoc-23
+/workspaces/aoc-23/2/bin/Debug/net7.0/aoc-23.deps.json
+/workspaces/aoc-23/2/bin/Debug/net7.0/aoc-23.runtimeconfig.json
+/workspaces/aoc-23/2/bin/Debug/net7.0/aoc-23.dll
+/workspaces/aoc-23/2/bin/Debug/net7.0/aoc-23.pdb
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.csproj.AssemblyReference.cache
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.AssemblyInfoInputs.cache
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.AssemblyInfo.cs
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.csproj.CoreCompileInputs.cache
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.dll
+/workspaces/aoc-23/2/obj/Debug/net7.0/refint/aoc-23.dll
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.pdb
+/workspaces/aoc-23/2/obj/Debug/net7.0/aoc-23.genruntimeconfig.cache
+/workspaces/aoc-23/2/obj/Debug/net7.0/ref/aoc-23.dll
